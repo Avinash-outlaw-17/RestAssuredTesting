@@ -1,0 +1,18 @@
+20:03:32.048 [main] INFO  PetStoreAuto.Tests.UserTests - ************** Creating the User *********
+20:03:35.799 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Created *********
+20:04:46.290 [main] INFO  PetStoreAuto.Tests.UserTests - ************** Creating the User *********
+20:04:49.704 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Created *********
+20:06:38.723 [main] INFO  PetStoreAuto.Tests.UserTests - ************** Creating the User *********
+20:06:42.685 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Created *********
+20:06:45.789 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Updated *********
+20:07:27.535 [main] INFO  PetStoreAuto.Tests.UserTests - ************** Creating the User *********
+20:07:30.596 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Created *********
+20:07:33.391 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Updated *********
+20:09:42.378 [main] INFO  PetStoreAuto.Tests.UserTests - ************** Creating the User *********
+20:09:45.866 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Created *********
+20:09:48.987 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Updated *********
+20:09:50.521 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Deleted *********
+20:10:45.211 [main] INFO  PetStoreAuto.Tests.UserTests - ************** Creating the User *********
+20:10:48.766 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Created *********
+20:10:51.653 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Updated *********
+20:10:53.112 [main] INFO  PetStoreAuto.Tests.UserTests - *********** User Deleted *********
